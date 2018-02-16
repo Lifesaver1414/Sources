@@ -13,4 +13,4 @@
 
 <a href="https://lifesaver1414.github.io/Pretty-Majestic/"> Pretty Majestic </a>
 
-<a href="https://lifesaver1414.github.io/Sources/"> Sources </a>
+<a href="https://lifesaver1414.github.io/"> Homepage </a>
